@@ -1,2 +1,2 @@
 # WebglProjects
-WebGL
+WebGL学习过程的Demo
